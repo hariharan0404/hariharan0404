@@ -55,14 +55,14 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-<!--
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔍 [Project 1](https://github.com/Hariharan26042004/project1) | Predictive analytics on real-world dataset | Python, Scikit-Learn, Pandas |
-| 📊 [Project 2](https://github.com/Hariharan26042004/project2) | Data visualization dashboard | Python, Matplotlib, Seaborn |
-| 🌐 [Project 3](https://github.com/Hariharan26042004/project3) | Full stack web application | React, Node.js, MySQL |
+| 🔍 [Project 1](https://github.com/hariharan0404/Smart-Hall-Booking-System) | Hall booking management application | Android, Java, Firebase/MySQL |
+| 📊 [Project 2](https://github.com/hariharan0404/online-exam-proctoring-system) | AI-based online exam proctoring system | Python, OpenCV, Computer Vision |
+| 🌐 [Project 3](https://github.com/hariharan0404/Vehicle-breakdown-Assistance) | Vehicle breakdown assistance system | Java, JSP, Servlets, MySQL |
 
 ---
 
@@ -74,7 +74,7 @@
 
 </div>
 
--->
+
 
 ### 📫 Let's Connect!
 
