@@ -60,9 +60,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔍 [Project 1](https://github.com/hariharan0404/Smart-Hall-Booking-System) | Hall booking management application | Android, Java, Firebase/MySQL |
-| 📊 [Project 2](https://github.com/hariharan0404/online-exam-proctoring-system) | AI-based online exam proctoring system | Python, OpenCV, Computer Vision |
-| 🌐 [Project 3](https://github.com/hariharan0404/Vehicle-breakdown-Assistance) | Vehicle breakdown assistance system | Java, JSP, Servlets, MySQL |
+| [Project 1](https://github.com/hariharan0404/Smart-Hall-Booking-System) | Hall booking management application | Android, Java, Firebase/MySQL |
+| [Project 2](https://github.com/hariharan0404/online-exam-proctoring-system) | AI-based online exam proctoring system | Python, OpenCV, Computer Vision |
+| [Project 3](https://github.com/hariharan0404/Vehicle-breakdown-Assistance) | Vehicle breakdown assistance system | Java, JSP, Servlets, MySQL |
 
 ---
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-I'm a fresh MSc graduate actively looking for my first opportunity in **Data Science**, **Analytics**, or **Full Stack Development**. Feel free to reach out!
+I'm MSc graduate actively looking for my first opportunity in **Data Science**, **Analytics**, or **Full Stack Development**. Feel free to reach out!
 
 [![Email](https://img.shields.io/badge/Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahariharan390@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan0404)
